@@ -60,7 +60,6 @@ export default class SignupForm extends React.Component {
                 />
                 {/* <label htmlFor="singupRePwInput">CONFIRM PASSWORD</label>
                 <input type="password" id="singupRePwInput" className="form-contents__fieldset-input"
-
                 /> */}
                 <button className="button-g button-signup">Sign up for FASTBOOK</button>
                 <SignupCancelBtn />
